@@ -34,12 +34,11 @@
             android:layout_height="?attr/actionBarSize"
             android:layout_gravity="top"
             android:background="#8000">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/tfl2_logo"
-                    android:contentDescription="@string/tensorflow_lite_logo_description" />
+<!--                <ImageView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:src="@drawable/tfl2_logo"-->
+<!--                    android:contentDescription="@string/tensorflow_lite_logo_description" />-->
         </androidx.appcompat.widget.Toolbar>
 
         <androidx.recyclerview.widget.RecyclerView
