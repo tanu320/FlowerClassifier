@@ -32,5 +32,4 @@ proguard-project.txt
 *.iml
 .idea
 
-# Mac specific ignore
 .DS_Store
